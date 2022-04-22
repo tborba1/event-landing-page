@@ -1,3 +1,17 @@
+nav {
+    background-color: #066E9B;
+}
+
+.nav-item {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    background-color: #2A98BA;
+    color: white;
+}
+
 .jumbotron {
     text-align: center;
 }
@@ -8,9 +22,26 @@
 
 .speakers h3 {
     text-align: center;
+}
+
+.section {
+    text-align: center;
+}
+
+.venue h3 {
     font-weight: bold;
 }
 
-/* .venue h3 {
-    font-weight: bold;
-} */
+.btn:hover {
+    background-color: #2A98BA;
+    border-color: #2A98BA;
+}
+.footer-item {
+    color: black;
+    text-decoration: none;
+}
+
+.footer-item:hover {
+    background-color: #066E9B;
+    color: white;
+}
