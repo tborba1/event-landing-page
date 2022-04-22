@@ -1,3 +1,16 @@
-body {
-    background-color: lightgray;
+.jumbotron {
+    text-align: center;
 }
+
+.img-fluid {
+    max-width: 100%;
+}
+
+.speakers h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* .venue h3 {
+    font-weight: bold;
+} */
