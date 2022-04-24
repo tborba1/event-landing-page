@@ -12,24 +12,8 @@ nav {
     color: white;
 }
 
-.jumbotron {
-    text-align: center;
-}
-
 .img-fluid {
     max-width: 100%;
-}
-
-.speakers h3 {
-    text-align: center;
-}
-
-.section {
-    text-align: center;
-}
-
-.venue h3 {
-    font-weight: bold;
 }
 
 .btn:hover {
